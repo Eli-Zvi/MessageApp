@@ -74,7 +74,7 @@ MessageApp is an instant messaging application similar to WhatsApp or Facebook M
   
 - Encrypts messages before sending them to ensure end-to-end encryption.
 
-Security
+### **Security**
 
 - The server does not decrypt messages.
   
