@@ -8,7 +8,7 @@ MessageApp is an instant messaging application similar to WhatsApp or Facebook M
 
 - Client: Written in C++
   
-- Server: Written in Python, stateless, and supports multiple users using threads or selectors.
+- Server: Written in Python, stateless, and supports multiple users using threading.
   
 - Communication: Clients retrieve messages from the server using a pull request model.
   
